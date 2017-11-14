@@ -1,16 +1,16 @@
 # Site settings
 
-author: Yourname
-email: example@email.com
+author: LiangJie
+email: luckiej@hotmail.com
 twitter_username: twitter
 github_username:  github
 googleplus_username: google
 
-head-title: Your blog
-title: Your blog
+head-title: LiangJie的个人博客
+title: LiangJie的个人博客
 
 baseurl: "/blog"    # the subpath of your site, "/blog"
-url: ""
+url: "liangjie.tech/blog"
 
 # footer 
 description: "I know that what I'm doing looks stupid, but I'm a big boy and really want to do this."
