@@ -9,8 +9,8 @@ googleplus_username: google
 head-title: LiangJie的个人博客
 title: LiangJie的个人博客
 
-baseurl: "/blog"    # the subpath of your site, "/blog"
-url: "liangjie.tech/blog"
+baseurl: "/"    # the subpath of your site, "/blog"
+url: "blog.liangjie.tech"
 
 # footer 
 description: "I know that what I'm doing looks stupid, but I'm a big boy and really want to do this."
