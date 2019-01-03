@@ -6,8 +6,8 @@ twitter_username: twitter
 github_username:  github
 googleplus_username: google
 
-head-title: LiangJie的个人博客
-title: LiangJie的个人博客
+head-title: 知悟科享
+title: 知悟科享
 
 baseurl: "/"    # the subpath of your site, "/blog"
 url: "blog.liangjie.tech"
